@@ -1,6 +1,6 @@
 #############################################
 version = 1.1                               #
-# \/ \/ \/ CHANGE YOUR PATH                #
+# \/ \/ \/ CHANGE YOUR PATH                 #
 path = "C:\\Users\\USERNAME\\FOLDERNAME"    #
 # /\ /\ /\                                  #
 #############################################
