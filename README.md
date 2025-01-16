@@ -8,7 +8,7 @@
 2. Następnie zlokalizuj zmienną **path** (linijka 4):
     - Wybierz własną, dowolną lokalizajce na swoim dysku (np. "C:\Users\%username%").
     - Wklej podaną ścieżke jako wartość **path**.
-    - Poczym każdy znak '\\' zamień na podwójny '\\\\' ("C:\Users\%username%" --> "C:\\Users\\%username%").
+    - Po czym każdy znak '\\' zamień na podwójny '\\\\' ("C:\Users\%username%" --> "C:\\Users\\%username%").
 
 3. Zapisz zmiany.
 
