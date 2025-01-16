@@ -10,8 +10,4 @@
     - Wklej podaną ścieżke jako wartość **path**.
     - Po czym każdy znak '\\' zamień na podwójny '\\\\' ("C:\Users\%username%" --> "C:\\Users\\%username%").
 
-3. Zapisz zmiany.
-
-4. Zakonczyłęś/ąs konfiguracje.
-
 ## By: ***colappo*** on github.
