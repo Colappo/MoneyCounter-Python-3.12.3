@@ -12,6 +12,6 @@
 
 3. Zapisz zmiany.
 
-4. Zakonczyłęś/ąs konfiguracje.
+4. Zakonczyłeś/aś konfigurację.
 
 # By: ***colappo*** on github.
