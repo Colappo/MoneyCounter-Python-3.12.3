@@ -12,6 +12,4 @@
 
 3. Zapisz zmiany.
 
-4. Zakonczyłeś/aś konfigurację.
-
 # By: ***colappo*** on github.
