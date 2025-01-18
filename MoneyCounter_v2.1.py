@@ -1,5 +1,5 @@
 #############################################
-version = 2.1                               #
+version = 2.2                               #
 # \/ \/ \/ CHANNGE YOUR PATH                #
 path = "C:\\Users\\USERNAME\\FOLDERNAME"    #
 # /\ /\ /\                                  #
@@ -49,7 +49,7 @@ class Main():
 
         os.system("cls")
 
-        print("Utworz konto:", end="\n")
+        print("Podaj dane logowania:", end="\n")
         user = str(input("Login: "))
         password = str(input("Haslo: "))
         f.write(f"{Coder(user).Encode()}\n{Coder(password).Encode()}")
@@ -62,7 +62,7 @@ class Main():
         f2.close()
         f3.close()
 
-        print("Program zamknie sie za 3s.")
+        print("Program zamknie sie za 3s.\nWlacz go ponownie")
         sleep(3)
     
     def LogIn() -> bool:
