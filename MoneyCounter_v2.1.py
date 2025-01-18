@@ -1,5 +1,5 @@
 #############################################
-version = 1.1                               #
+version = 2.1                               #
 # \/ \/ \/ CHANNGE YOUR PATH                #
 path = "C:\\Users\\USERNAME\\FOLDERNAME"    #
 # /\ /\ /\                                  #
