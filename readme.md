@@ -1,4 +1,4 @@
-# MoneyCounter_v2.1.py
+# MoneyCounter_v2.2.py
 
 
 ## Jak poprawnie skonfigurować aplikacje?
