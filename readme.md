@@ -13,4 +13,4 @@
 3. Zapisz zmiany.
 
 
-# By: ***colappo*** on github.
+# By: ***collappo*** on github.
